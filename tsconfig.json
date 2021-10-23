@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "target": "es2019",                          
+      "module": "commonjs",                    
+      "experimentalDecorators": true,                     
+      "allowJs": true,
+      "outDir": "build",                          
+      "rootDir": "src"
+  }
+}
